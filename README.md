@@ -1,9 +1,7 @@
 #Laravel Bugherd
 
-[![Build Status](https://travis-ci.org/onwwward/laravel-bugherd.svg?branch=master)](https://travis-ci.org/onwwward/laravel-bugherd)
-[![StyleCI](https://styleci.io/repos/66357568/shield)](https://styleci.io/repos/65727693)
-[![license](https://img.shields.io/github/license/onwwward/laravel-bugherd.svg?maxAge=2592000)]()
-[![Packagist](https://img.shields.io/packagist/v/onwwward/laravel-bugherd.svg?maxAge=2592000)]()
+[![Build Status](https://travis-ci.org/MuhammadSulman/test.svg?branch=master)](https://travis-ci.org/MuhammadSulman/test)
+
 
 This is a Laravel 5 wrapper for the [PHP Bugherd Api](https://github.com/beleneglorion/php-bugherd-api) package.
 
